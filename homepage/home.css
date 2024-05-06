@@ -1,0 +1,88 @@
+
+body{
+    position: relative;
+}
+.fpage{
+    background-color: #A393EB;
+    height: 708px;
+}
+.head{
+    background-color: #27296D;
+    color: #F5C7F7;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 114px;
+}
+.fn{
+    gap: 8px;
+    align-items: center;
+    display: flex;
+}
+.fn img{
+    height: 79px;
+    width: 90px;
+    padding-left: 18px;
+    display: inline;
+} 
+.fn h1{
+    display: inline;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+nav .sn ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav .sn ul li{
+    margin-right: 120px;
+}
+nav .sn ul li:last-child{
+    margin-right: 200;
+}
+.sn a{
+    color: #F5C7F7;
+    text-decoration: none;
+    font-size:20px;
+    font-weight: 600px;
+}
+.sn a:hover{
+    color: #e596e8;
+}
+.fbody{
+    display: flex;
+}
+.con{
+    width:760px;
+    justify-content: center;
+    margin-left: 97px;
+    margin-top: 45px;
+}
+.photo{
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    padding-top: 8px;
+    padding-left: 100px;
+}
+.nxt{
+    font-size: 85px;
+    font-weight: 200;
+    color: #27296D;
+}
+.txt{
+    font-weight: 800;
+    font-size: 85px;
+    color: #27296D;
+}
+.cul{
+    border: 0px;
+    margin-top: -5px;
+    height: 7px;
+    background-color: #27296D;
+}
