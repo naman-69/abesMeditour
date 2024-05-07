@@ -167,9 +167,65 @@ nav .sn ul li:last-child{
 .tps13{
     border: 0px;
     margin-top: -5px;
+    margin-right: -200px;
     height: 4px;
     background-color: #FFFFFF;
 }
 
 /* Fourth frame css*/
 
+.cul3{
+    border: 0px;
+    margin-top: -5px;
+    height: 7px;
+    background-color: #FFFFFF;
+}
+
+.fopage{
+    height: 240px;
+    background-color: #5E63B6;
+    display: flex;
+    flex-direction: column;
+    margin-top: -10px;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+}
+.fobut{
+    display: flex;
+    background-color: #373C8E;
+    width: 288px;
+    min-height: 96px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.folo img{
+    height: 55px;
+    width: 66px;
+}
+.foname{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.mad p{
+    font-size: 20px;
+    font-weight: 400px;
+    margin-top: 5px;
+}
+.cont , .pp , .foot{
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+.copp{
+    display: flex;
+    gap: 46px;
+}
+
+.cont , .pp ,.foot{
+    margin-top: -19px;
+}
