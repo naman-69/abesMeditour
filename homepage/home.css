@@ -56,11 +56,15 @@ nav .sn ul li:last-child{
 .fbody{
     display: flex;
 }
+nav a{
+    font-family: "Inter";
+}
 .con{
     width:760px;
     justify-content: center;
     margin-left: 97px;
     margin-top: 45px;
+    font-family: "Inter",sans-serif;
 }
 .photo{
     justify-content: center;
@@ -93,6 +97,7 @@ nav .sn ul li:last-child{
     display: flex;
     height: 708px;
     margin-top: -10px;
+    font-family: "Inter";
 }
 
 .sp1{
@@ -123,6 +128,7 @@ nav .sn ul li:last-child{
     background-color: #27296D;
     margin-top: -10px;
     display: flex;
+    font-family: "Inter";
 }
 
 .tp1{
@@ -190,6 +196,7 @@ nav .sn ul li:last-child{
     justify-content: center;
     align-items: center;
     color: #FFFFFF;
+    font-family: "Inter";
 }
 .fobut{
     display: flex;

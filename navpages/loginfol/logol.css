@@ -1,6 +1,7 @@
 .fpage{
     background: linear-gradient(to bottom,#2563EB,#FFFFFF);
     height: 830px;
+    font-family: "Roboto";
 }
 .head{
     background-color: #27296D;
@@ -52,6 +53,10 @@ nav .sn ul li:last-child{
 }
 .sn a:hover{
     color: #e596e8;
+}
+
+nav a{
+    font-family: "Inter";
 }
 
 #und::after{

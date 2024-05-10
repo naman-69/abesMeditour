@@ -4,6 +4,7 @@
 .fpage{
     background: linear-gradient(to bottom,#F5C7F799,#A393EB99);
     height: 820px;
+    font-family: "Inter";
 }
 .head{
     background-color: #27296D;
@@ -101,6 +102,7 @@ nav .sn a:hover{
     font-weight: 700;
     font-size: 110px;
     color: #27296D;
+    font-family: "Poppins";
 }
 #buc{
     margin-left: 100px;
@@ -136,6 +138,7 @@ nav .sn a:hover{
     height: 850px;
     background: linear-gradient(to bottom,#F5C7F780,#5E63B659);
      margin-top: -10px;
+     font-family: "Roboto";
 }
 
 .abow{

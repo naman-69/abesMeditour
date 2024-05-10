@@ -35,6 +35,10 @@
     font-weight: 900;
 }
 
+nav{
+    font-family: "Inter";
+}
+
 nav .sn ul{
     list-style-type: none;
     margin: 0;
@@ -72,6 +76,10 @@ nav .sn a:hover{
 .contt{
     justify-content: center;
     margin-left: -30px;
+    font-family: "Roboto";
+}
+#buc{
+    font-family: "Inter";
 }
 .contt .hpl1{
     margin-top: 150px;
@@ -137,6 +145,7 @@ nav .sn a:hover{
     height: 850px;
     background: linear-gradient(to bottom,#27296DE5,#5E63B6E5);
      margin-top: -10px;
+     font-family: "Roboto";
 }
 
 .abow{
@@ -155,6 +164,7 @@ nav .sn a:hover{
     align-items: center;
     border: 5px solid #67A9ED;
     box-shadow: 5px 4px 8px 5px white;
+    font-family: "Inter";
 }
 .srch #pp{
     width: 185px;
