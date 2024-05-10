@@ -16,6 +16,10 @@
     align-items: center;
     display: flex;
 }
+.fn a{
+    text-decoration: none;
+    color: inherit;
+}
 .fn img{
     height: 79px;
     width: 90px;
